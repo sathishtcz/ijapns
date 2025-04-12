@@ -3,8 +3,6 @@ import { Link, useLocation } from "react-router-dom";
 import { FaChevronDown } from "react-icons/fa";
 import { GiHamburgerMenu } from "react-icons/gi";
 import NavItems from "./NavItems";
-import ijetp from "/assets/images/IJETP.png";
-
 
 const Header = () => {
     const menuRef = useRef(null);
