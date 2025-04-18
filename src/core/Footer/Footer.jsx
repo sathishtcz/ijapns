@@ -9,13 +9,13 @@ const Footer = () => {
       <div className=" mx-auto px-5 max-w-[92rem]  lg:py-10 py-5">
         <div className="grid grid-cols-1  md:grid-cols-4 sm:grid-cols-2 md:gap-8 gap-4">
           <div className='text-center md:text-left flex flex-col gap-4 justify-between'>
-            {/* <Link to='/'>
+            <Link to='/'>
            
-              <img className='  w-40 md:mx-0   mx-auto' src={ijetp} alt="logo" />
-            </Link> */}
-            <Link to="/" className="text-white text-4xl poppins-bold">
-              IJAPNS
+              <img className='  w-40 md:mx-0   mx-auto' src="/assets/images/IJAPNS.png" alt="logo" />
             </Link>
+            {/* <Link to="/" className="text-white text-4xl poppins-bold">
+              IJAPNS
+            </Link> */}
             <div className='flex flex-col justify-center md:items-start items-center md:text-left lg:text-base text-sm'>
               <div className='flex gap-3 items-center'>
                 <FaEnvelope />

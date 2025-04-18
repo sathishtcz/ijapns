@@ -94,12 +94,12 @@ const Header = () => {
         <div ref={menuRef} className="w-full fixed top-0 z-20 max-h-[102px] bg-[#1B56FD]">
             <div className="mx-auto w-full xl:max-w-[1500px] md:max-w-[920px] flex items-center justify-between">
                 <div className="p-5">
-                    <Link to="/" className="text-white text-4xl poppins-bold">
+                    {/* <Link to="/" className="text-white text-4xl poppins-bold">
                         IJAPNS
-                    </Link>
-                     {/* <Link to="/">
-                                <img className="w-40 md:mx-0 mx-auto" src={ijetp} alt="logo" />
-                            </Link> */}
+                    </Link> */}
+                     <Link to="/">
+                                <img className="w-40 md:mx-0 mx-auto" src="/assets/images/IJAPNS.png" alt="logo" />
+                            </Link>
                 </div>
 
                 <div className="lg:flex hidden items-center">
