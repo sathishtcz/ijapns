@@ -20,7 +20,7 @@ export default function About() {
                         <span className='text-[#1B56FD] font-medium'>The International Journal of Applied Psychology and Neuroscience</span> is a peer-reviewed, open-access scholarly journal committed to advancing the fields of psychology and neuroscience through high-quality, original research. IJAPNS serves as a platform for scientists, clinicians, educators, and scholars to share findings that bridge theory and practical application in understanding human behavior, cognition, and brain function.
                     </p>
                     <div className="text-start">
-                        <a href="" target="_blank" rel="noopener noreferrer">
+                        <a href="https://ijapns.com/ijapns/index.php/ijapns/about/submissions" target="_blank" rel="noopener noreferrer">
                             <button className="bg-[#1B56FD] text-white px-4 py-3   cursor-pointer rounded ">
                                 <div className="flex justify-between gap-2 items-center ">
                                     {" "}

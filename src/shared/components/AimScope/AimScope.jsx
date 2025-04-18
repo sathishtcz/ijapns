@@ -18,7 +18,7 @@ export default function AimScope() {
                         <span className='text-[#1B56FD] font-medium'>The International Journal of Applied Psychology and Neuroscience </span> aims to provide a dynamic platform for the dissemination of cutting-edge research in the fields of psychology and neuroscience. The journal encourages interdisciplinary approaches and welcomes contributions that explore the scientific, clinical, experimental, and applied aspects of human behavior, brain function, and mental health. IJAPNS publishes original research articles, review papers, case studies, and special issues that advance knowledge in cognitive neuroscience, behavioral science, neuropsychology, psychophysiology, clinical psychology, and related domains.
                     </p>
                     <div className="text-start">
-                        <a href="" target="_blank" rel="noopener noreferrer">
+                        <a href="https://ijapns.com/ijapns/index.php/ijapns/about/submissions" target="_blank" rel="noopener noreferrer">
                             <button className="bg-[#1B56FD] text-white px-4 py-3   cursor-pointer rounded ">
                                 <div className="flex justify-between gap-2 items-center ">
                                     {" "}

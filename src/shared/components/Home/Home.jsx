@@ -29,7 +29,7 @@ export default function Home({ firstRow, secondRow, thirdRow }) {
                         It is a peer-reviewed, interdisciplinary journal committed to advancing the scientific understanding and practical application of psychology and neuroscience. Our mission is to bridge the gap between research and practice by publishing high-quality studies that explore the complex interplay between human behavior, brain function, and cognitive processes across diverse populations and settings.
                     </p>
                     <div className="text-start">
-                        <a href="" target="_blank" rel="noopener noreferrer">
+                        <a href="https://ijapns.com/ijapns/index.php/ijapns/about/submissions" target="_blank" rel="noopener noreferrer">
                             <button className="bg-[#1B56FD] text-white px-4 py-3   cursor-pointer rounded ">
                                 <div className="flex justify-between gap-2 items-center ">
                                     {" "}
